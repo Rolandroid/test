@@ -6,5 +6,8 @@ let frutas = [{
     nombre:"manzana",
     precio : 15,
     rico : true
-}
+},{ nombre:"banana",
+    precio : 15,
+    rico : false
+  }           
     ]
